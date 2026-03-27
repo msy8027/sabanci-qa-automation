@@ -1,0 +1,3 @@
+base_url: "https://sabanci-app.com"
+browser: "chrome"
+timeout: 10
